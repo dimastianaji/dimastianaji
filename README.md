@@ -11,8 +11,9 @@
 
 ### About Me
 
-🎓 Software Engineering @ Telkom University | GPA 3.78<br/>
-📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
+🎓 Software Engineering student at Telkom University | GPA 3.78<br/>
+📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development<br/>
+🗡️ Now I'm a little motivated
 
 </div>
 
@@ -84,6 +85,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
 
 
 
