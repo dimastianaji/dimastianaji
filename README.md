@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="300" alt="Coding Gif"/>
-  <h1>👋 Halo, Saya [Nama Kamu]</h1>
+  <h1>👋 Halo, Dimastian Aji Wibowo</h1>
   <p>🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78</p>
   <p>📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development</p>
 </div>
@@ -11,9 +11,9 @@
 ## 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=react-dark&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dimastianaji&show_icons=true&theme=react-dark&count_private=true" alt="Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_KAMU]&theme=dark&fire=FF4500" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimastianaji&theme=dark&fire=FF4500" alt="Streak" />
 </div>
 
 ---
@@ -29,7 +29,7 @@
 ## 📌 What I’m Learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=js,react,swift,dart" />
 </div>
 
 ---
@@ -44,12 +44,9 @@
 
 ---
 
-## 📈 Aktivitas Posting Blog (Opsional)
-
-> 📝 Aku sering menulis artikel teknis di [blogku](https://example.com) — terakhir diposting 1 minggu lalu.
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME_KAMU]&bg_color=0d1117&color=5bc0be&line=5bc0be&point=ffffff&area=true&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimastianaji&bg_color=0d1117&color=5bc0be&line=5bc0be&point=ffffff&area=true&hide_border=false" />
 </div>
 
 ---
@@ -57,7 +54,6 @@
 ## 🎮 My Down Time
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Netflix-ED1C24?style=for-the-badge&logo=Netflix&logoColor=white" />
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white" />
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 </div>
@@ -65,3 +61,4 @@
 ---
 
 > 🔄 *Profile ini diperbarui otomatis setiap hari. Terima kasih sudah berkunjung!* 😊
+
