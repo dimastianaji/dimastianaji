@@ -1,17 +1,21 @@
 <div align="center">
 
-# 👋 Halo, Saya Dimastian Aji Wibowo
+# 👋 Halo, Saya Dimastian Aji
 
-<p>
-  <img src="https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="80" alt="GIF Left"/>
-</p>
-
-🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78  
-📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
-
-<p>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80" alt="GIF Right"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://media.tenor.com/8jUlCiKI8RMAAAAi/sonic-personaggio-per-il-videogame.gif" width="80" alt="Left GIF" />
+    </td>
+    <td align="center">
+      🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78<br/>
+      📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
+    </td>
+    <td align="center" width="100">
+      <img src="https://media.tenor.com/-ERXxQzQK_YAAAAj/sonic-sprite-sonic1.gif" width="80" alt="Right GIF" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -81,3 +85,4 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
