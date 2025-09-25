@@ -24,9 +24,8 @@
 ## 📊 Statistik GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimastianaji&show_icons=true&theme=react-dark&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimastianaji&theme=dark&fire=FF4500)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namagithubkamu&show_icons=true&theme=dark&count_private=true)
 
 </div>
 
@@ -85,6 +84,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
 
 
 
