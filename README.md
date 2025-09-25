@@ -1,9 +1,7 @@
 <div style="text-align: center; margin: 0 auto; padding: 20px;">
 
-  <!-- Judul Profil -->
   <h1>👋 Halo, Saya [Nama Kamu]</h1>
 
-  <!-- Bagian Profil -->
   <div style="display: flex; justify-content: center; align-items: center; text-align: center; gap: 20px;">
 
     <!-- GIF Kiri -->
@@ -22,14 +20,19 @@
       <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80" alt="Right GIF" />
     </div>
 
-  </div>
+  </div> <!-- Penutup flex container -->
+
+</div> <!-- Penutup container utama -->
+
+---
+
+# 📊 Statistik GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=react-dark&count_private=true" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_KAMU]&theme=dark&fire=FF4500" alt="Streak" />
 </div>
-
-
-<br/>
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=dimastianaji&show_icons=true&theme=dark&count_private=true" />
 
 ---
 
@@ -77,6 +80,7 @@
 </div>
 
 ---
+
 
 
 
