@@ -1,20 +1,29 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://media.tenor.com/GiG-sl9vrJ8AAAAi/i-love-you-i-love-you-baby.gif" width="300" alt="Coding Gif"/>
-  <h1>👋 Halo, Aku Dimastian Aji Wibowo (Dimas/Ian)</h1>
-  <p>🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78</p>
-  <p>📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development</p>
+  <table border="0" width="100%">
+    <tr>
+      <!-- GIF Kiri -->
+      <td width="100" align="center">
+        <img src="https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="80" alt="Left GIF" />
+      </td>
+
+      <!-- Teks Profil (di tengah) -->
+      <td align="center">
+        🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78<br/>
+        📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
+      </td>
+
+      <!-- GIF Kanan -->
+      <td width="100" align="center">
+        <img src="https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width="80" alt="Right GIF" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
 
-## 📊 Statistik GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimastianaji&show_icons=true&theme=dark&count_private=true />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimastianaji&theme=dark&fire=FF4500" alt="Streak" />
-</div>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=dimastianaji&show_icons=true&theme=dark&count_private=true" />
 
 ---
 
@@ -54,11 +63,14 @@
 ## 🎮 My Down Time
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlayStation-0070D3?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netflix-ED1C24?style=for-the-badge&logo=netflix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 </div>
 
 ---
+
 
 
 
