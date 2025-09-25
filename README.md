@@ -2,28 +2,27 @@
 
   <h1>👋 Halo, Saya [Nama Kamu]</h1>
 
-  <table style="border: none; border-collapse: collapse; width: 100%; outline: none;">
-    <tr style="border: none; outline: none;">
-      <!-- GIF Kiri -->
-      <td width="100" align="center" style="border: none; outline: none; background: none;">
-        <img src="https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="80" alt="Left GIF" />
-      </td>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-      <!-- Teks Profil -->
-      <td align="center" style="border: none; outline: none; background: none;">
-        🎓 <b>Mahasiswa Software Engineering @ Telkom University</b> | GPA 3.78 <br/>
-        📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
-      </td>
+    <!-- GIF Kiri -->
+    <div>
+      <img src="https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="80" alt="Left GIF" />
+    </div>
 
-      <!-- GIF Kanan -->
-      <td width="100" align="center" style="border: none; outline: none; background: none;">
-        <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80" alt="Right GIF" />
-      </td>
-    </tr>
-  </table>
+    <!-- Profil Tengah -->
+    <div style="text-align: center;">
+      🎓 <b>Mahasiswa Software Engineering @ Telkom University</b> | GPA 3.78<br/>
+      📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
+    </div>
+
+    <!-- GIF Kanan -->
+    <div>
+      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80" alt="Right GIF" />
+    </div>
+
+  </div>
 
 </div>
-
 
 ---
 
@@ -91,6 +90,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
 
 
 
