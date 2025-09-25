@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/-ERXxQzQK_YAAAAj/sonic-sprite-sonic1.gif" width="180" align="left" alt="coding gif">
-<img src="https://media.tenor.com/8jUlCiKI8RMAAAAi/sonic-personaggio-per-il-videogame.gif" width="180" align="right" alt="coding gif">
+<img src="https://media.tenor.com/8jUlCiKI8RMAAAAi/sonic-personaggio-per-il-videogame.gif" width="180" align="left" alt="coding gif">
+<img src="https://media.tenor.com/-ERXxQzQK_YAAAAj/sonic-sprite-sonic1.gif" width="180" align="right" alt="coding gif">
 
 ### About Me
 
@@ -84,6 +84,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
 
 
 
