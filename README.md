@@ -1,21 +1,25 @@
-<h1 align="center">👋 Halo, Saya [Nama Kamu]</h1>
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRxcnptZ3R6cmFyMzV2cWZ0anN0d3ZhdWluOWkzdjhxcGNvZnR4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pZSaJSS4aDQ9bHEyBr/giphy.gif" width="35" style="vertical-align: middle;" alt="wave gif">
+  Hola, I'm Dimastian Aji Wibowo
+</h1>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 25px;">
+---
 
-  <!-- GIF Kiri -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhnbHcwbmRjY2Vwc2hjbHYwb2E5ZWd5bWZkZmFlaW05NmpxM3d1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="100" alt="Left GIF" />
+<div align="center">
 
-  <!-- Profil Tengah -->
-  <div style="text-align: center;">
-    🎓 <b>Mahasiswa Software Engineering @ Telkom University</b> | GPA 3.78<br>
-    📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
-  </div>
+<img src="https://media.tenor.com/-ERXxQzQK_YAAAAj/sonic-sprite-sonic1.gif" width="180" align="left" alt="coding gif">
+<img src="https://media.tenor.com/8jUlCiKI8RMAAAAi/sonic-personaggio-per-il-videogame.gif" width="180" align="right" alt="coding gif">
 
-  <!-- GIF Kanan -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR3Zm1kcWduOWtyNmJ2aGtncHNycG10cDR2NjVtM3h3eXEyZmtmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Right GIF" />
+### 👩‍💻 About Me
+
+- 🎓 Student at Software Engineering @ Telkom University 
+- 📍 Indonesia  
+- 💻 Passionate about UI/UX, Frontend & Backend Development  
+- 🗡️ Where is your motivation?
 
 </div>
 
+<br clear="both">
 
 ---
 
@@ -83,6 +87,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
 
 
 
