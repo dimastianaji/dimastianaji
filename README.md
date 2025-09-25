@@ -1,26 +1,18 @@
-<div align="center">
+<h1 align="center">👋 Halo, Saya [Nama Kamu]</h1>
 
-  <h1>👋 Halo, Saya [Nama Kamu]</h1>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- GIF Kiri -->
+  <img src="https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="90" alt="Left GIF" />
 
-    <!-- GIF Kiri -->
-    <div>
-      <img src="https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="80" alt="Left GIF" />
-    </div>
-
-    <!-- Profil Tengah -->
-    <div style="text-align: center;">
-      🎓 <b>Mahasiswa Software Engineering @ Telkom University</b> | GPA 3.78<br/>
-      📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
-    </div>
-
-    <!-- GIF Kanan -->
-    <div>
-      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80" alt="Right GIF" />
-    </div>
-
+  <!-- Profil Tengah -->
+  <div style="text-align: center;">
+    🎓 <b>Mahasiswa Software Engineering @ Telkom University</b> | GPA 3.78<br>
+    📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
   </div>
+
+  <!-- GIF Kanan -->
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="90" alt="Right GIF" />
 
 </div>
 
@@ -90,6 +82,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
 
 
 
