@@ -1,24 +1,19 @@
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <!-- GIF Kiri -->
-      <td width="100" align="center">
-        <img src="https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="80" alt="Left GIF" />
-      </td>
-
-      <!-- Teks Profil (di tengah) -->
-      <td align="center">
-        🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78<br/>
-        📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
-      </td>
-
-      <!-- GIF Kanan -->
-      <td width="100" align="center">
-        <img src="https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width="80" alt="Right GIF" />
-      </td>
-    </tr>
-  </table>
-</div>
+  <div style="text-align: center;">
+    <table style="width: 100%; border: none; text-align: center;">
+      <tr>
+        <td style="width: 100px;">
+          <img src="https://media.tenor.com/GiG-sl9vrJ8AAAAj/i-love-you-i-love-you-baby.gif" width="80" alt="Left GIF" />
+        </td>
+        <td>
+          🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78<br/>
+          📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
+        </td>
+        <td style="width: 100px;">
+          <img src="https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width="80" alt="Right GIF" />
+        </td>
+      </tr>
+    </table>
+  </div>
 
 <br/>
 
@@ -67,9 +62,11 @@
   <img src="https://img.shields.io/badge/PlayStation-0070D3?style=for-the-badge&logo=playstation&logoColor=white" />
   <img src="https://img.shields.io/badge/Netflix-ED1C24?style=for-the-badge&logo=netflix&logoColor=white" />
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 </div>
 
 ---
+
 
 
 
