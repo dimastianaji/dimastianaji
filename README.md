@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="300" alt="Coding Gif"/>
-  <h1>👋 Halo, Dimastian Aji Wibowo</h1>
+  <img src="[https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="300" alt=](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGx2c3hkbG1uc2t2eWdkNWZ5aDJrcG14c3QwbjdnZDFnbWd6Z3JybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRouJhQpbhPzTJ2eBU/giphy.gif)"Coding Gif"/>
+  <h1>👋 Halo, Aku Dimastian Aji Wibowo (Dimas/Ian)</h1>
   <p>🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78</p>
   <p>📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development</p>
 </div>
@@ -11,7 +11,7 @@
 ## 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimastianaji&show_icons=true&theme=react-dark&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dimastianaji&show_icons=true&theme=dark&count_private=true />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimastianaji&theme=dark&fire=FF4500" alt="Streak" />
 </div>
@@ -61,4 +61,5 @@
 ---
 
 > 🔄 *Profile ini diperbarui otomatis setiap hari. Terima kasih sudah berkunjung!* 😊
+
 
