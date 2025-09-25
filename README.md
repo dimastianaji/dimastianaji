@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/BbSkyx3DaEgAAAAC/goma-sad.gif" width="300" alt="Coding Gif"/>
+  <img src="https://media.tenor.com/GiG-sl9vrJ8AAAAi/i-love-you-i-love-you-baby.gif" width="300" alt="Coding Gif"/>
   <h1>👋 Halo, Aku Dimastian Aji Wibowo (Dimas/Ian)</h1>
   <p>🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78</p>
   <p>📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development</p>
@@ -59,6 +59,7 @@
 </div>
 
 ---
+
 
 
 
