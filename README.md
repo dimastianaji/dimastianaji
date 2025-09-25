@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRxcnptZ3R6cmFyMzV2cWZ0anN0d3ZhdWluOWkzdjhxcGNvZnR4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pZSaJSS4aDQ9bHEyBr/giphy.gif" width="35" style="vertical-align: middle;" alt="wave gif">
   Hola, I'm Dimastian Aji Wibowo
 </h1>
 
@@ -10,7 +9,7 @@
 <img src="https://media.tenor.com/-ERXxQzQK_YAAAAj/sonic-sprite-sonic1.gif" width="180" align="left" alt="coding gif">
 <img src="https://media.tenor.com/8jUlCiKI8RMAAAAi/sonic-personaggio-per-il-videogame.gif" width="180" align="right" alt="coding gif">
 
-### 👩‍💻 About Me
+### About Me
 
 - 🎓 Student at Software Engineering @ Telkom University 
 - 📍 Indonesia  
@@ -87,6 +86,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
 
 
 
