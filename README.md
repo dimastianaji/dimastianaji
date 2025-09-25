@@ -1,19 +1,30 @@
-  <div style="text-align: center;">
-    <table style="width: 100%; border: none; text-align: center;">
-      <tr>
-        <td style="width: 100px;">
-          <img src="https://media.tenor.com/GiG-sl9vrJ8AAAAj/i-love-you-i-love-you-baby.gif" width="80" alt="Left GIF" />
-        </td>
-        <td>
-          🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78<br/>
-          📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
-        </td>
-        <td style="width: 100px;">
-          <img src="https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width="80" alt="Right GIF" />
-        </td>
-      </tr>
-    </table>
+<div style="text-align: center; margin: 0 auto; padding: 20px;">
+
+  <!-- Judul Profil -->
+  <h1>👋 Halo, Saya [Nama Kamu]</h1>
+
+  <!-- Bagian Profil -->
+  <div style="display: flex; justify-content: center; align-items: center; text-align: center; gap: 20px;">
+
+    <!-- GIF Kiri -->
+    <div>
+      <img src="https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="80" alt="Left GIF" />
+    </div>
+
+    <!-- Teks Profil Tengah -->
+    <div style="max-width: 600px;">
+      🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78<br/>
+      📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development
+    </div>
+
+    <!-- GIF Kanan -->
+    <div>
+      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80" alt="Right GIF" />
+    </div>
+
   </div>
+</div>
+
 
 <br/>
 
@@ -66,6 +77,7 @@
 </div>
 
 ---
+
 
 
 
