@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGx2c3hkbG1uc2t2eWdkNWZ5aDJrcG14c3QwbjdnZDFnbWd6Z3JybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRouJhQpbhPzTJ2eBU/giphy.gif" width="300" alt="Coding Gif"/>
+  <img src="https://media1.tenor.com/m/BbSkyx3DaEgAAAAC/goma-sad.gif" width="300" alt="Coding Gif"/>
   <h1>👋 Halo, Aku Dimastian Aji Wibowo (Dimas/Ian)</h1>
   <p>🎓 Mahasiswa Software Engineering @ Telkom University | GPA 3.78</p>
   <p>📍 Indonesia | 💻 Passionate about UI/UX, Frontend & Backend Development</p>
@@ -59,8 +59,6 @@
 </div>
 
 ---
-
-> 🔄 *Profile ini diperbarui otomatis setiap hari. Terima kasih sudah berkunjung!* 😊
 
 
 
