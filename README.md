@@ -1,9 +1,9 @@
 <h1 align="center">👋 Halo, Saya [Nama Kamu]</h1>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 25px;">
 
   <!-- GIF Kiri -->
-  <img src="https://media.giphy.com/media/3o7abAHdYvZTGoCM3M/giphy.gif" width="90" alt="Left GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhnbHcwbmRjY2Vwc2hjbHYwb2E5ZWd5bWZkZmFlaW05NmpxM3d1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="100" alt="Left GIF" />
 
   <!-- Profil Tengah -->
   <div style="text-align: center;">
@@ -12,9 +12,10 @@
   </div>
 
   <!-- GIF Kanan -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="90" alt="Right GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR3Zm1kcWduOWtyNmJ2aGtncHNycG10cDR2NjVtM3h3eXEyZmtmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Right GIF" />
 
 </div>
+
 
 ---
 
@@ -82,6 +83,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
 
 
 
