@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -84,6 +84,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
 
 
 
