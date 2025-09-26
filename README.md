@@ -21,12 +21,18 @@
 
 ---
 
-### Contact Me
+### 📞 Contact Me
 
-📧 [dimastianajiwibowo@gmail.com](mailto:dimastian.exeo@gmail.com)<br/>
-📸 [Instagram](https://www.instagram.com/dimastian.exe)<br/>
-💼 [LinkedIn](https://www.linkedin.com/in/dimastian-aji-wibowo-7251a7300/)
-
+<div align="center">
+  <a href="mailto:dimastian.exe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dimastian.exe">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dimastian-aji-wibowo-7251a7300/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 <br clear="both">
@@ -96,6 +102,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
 
 
 
