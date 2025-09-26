@@ -21,6 +21,18 @@
 
 ---
 
+### Contact Me
+
+📧 [dimastianajiwibowo@gmail.com](mailto:dimastian.exeo@gmail.com)<br/>
+📸 [Instagram](https://www.instagram.com/dimastian.exe)<br/>
+💼 [LinkedIn](https://www.linkedin.com/in/dimastian-aji-wibowo-7251a7300/)
+
+</div>
+
+<br clear="both">
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -84,6 +96,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white" />
 
 </div>
+
 
 
 
